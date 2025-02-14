@@ -1,0 +1,10 @@
+[project]
+name = "great-expectations-demo"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "great-expectations>=1.3.5",
+    "pandas>=2.1.4",
+]
